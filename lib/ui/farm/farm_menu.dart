@@ -92,7 +92,7 @@ class _FarmMenuState extends State<FarmMenu> {
                               ),
                               tileColor: Colors.transparent,
                               onTap: () async {
-                                final fullDeviceData = await _repository.getFullDeviceData(devices[index].hostName!);
+                                final fullDeviceData = await _repository.getFullDeviceData(devices[index].hostName!); // display data from fullDeviceData in IoTMonitoringPage
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
