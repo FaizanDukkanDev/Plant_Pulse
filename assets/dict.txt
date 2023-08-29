@@ -1,0 +1,67 @@
+0 Adanson Monstera
+1 African Violet
+2 Aglaonema Siam
+3 Aloe Vera
+4 Anthruium
+5 Basil
+6 Bird of Paradise
+7 Birds Nest Anthurium
+8 Black Velver Alocasia
+9 Boston Fern
+10 Bromeliad
+11 Cactus
+12 Cannabis
+13 Carnation
+14 Cast Iron Plant
+15 Chinese Evergreen
+16 Chinese Money Plant
+17 Croton
+18 Daisy
+19 Deffenbachia
+20 Dracaena
+21 Dragon Tree
+22 Dumb Cane
+23 Elephant Ear
+24 English Ivy
+26 Ficus Audrey
+27 Ficus Tineke
+28 Fiddle Leaf Fig
+29 Fisbone Cactus
+30 Grass
+31 Heartleaf Philodendron
+32 Homalomena Selby
+33 Hoya Tri Color
+34 Jade
+35 Jasmine Plant
+36 Juniper Bonsai
+37 Kalanchoe
+38 Lucky Bamboo
+39 Marxii Calathea
+40 Milk Weed
+41 Mistletoe Cactus
+42 Money Tree
+43 Monstera Deliciosa
+44 Moth Orchid
+45 Palm
+46 Peace Lilly
+47 Phillipine Evergreen
+48 Philodendron Brazil
+49 Pilea
+50 Polka Dot Begonia
+51 Pothos
+52 Prayer Plant
+53 Rattlesnake Calathea
+54 Rose
+55 Rosemary
+56 Rubber Plant
+57 Schefflera Amate
+58 Silver Leaf Philodendron
+59 Snake Plant
+60 Spider Plant
+61 String of Pearls
+62 Sunflower
+63 Sweetheart Plant
+64 Tulip
+65 Umbrella Plant
+66 Weeping Fig
+67 ZZ Plant

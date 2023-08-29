@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1089578554449",
+    "project_id": "plant-pulse-fe262",
+    "storage_bucket": "plant-pulse-fe262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089578554449:android:c0fc634ac945dea8b41470",
+        "android_client_info": {
+          "package_name": "com.rodlandfarms.plantpulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089578554449-tmndi53rc95kvpr5fok59vfuqk98l55m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodlandfarms.plantpulse",
+            "certificate_hash": "ed0c57cdd6765dd2c9ae6716c32168b51d7b7e6d"
+          }
+        },
+        {
+          "client_id": "1089578554449-rpu0dnoatgbnqg561s829sb4ptkmvuca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXjX2jdO5GxK5hbWBaThi8nAqqm-uqN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089578554449-rpu0dnoatgbnqg561s829sb4ptkmvuca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089578554449-1r13dbktf3pa7p30padd26vp7bprj241.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rodlandfarms.plantpulse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

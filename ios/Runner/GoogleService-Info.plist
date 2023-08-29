@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1089578554449-1r13dbktf3pa7p30padd26vp7bprj241.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1089578554449-1r13dbktf3pa7p30padd26vp7bprj241</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCP1oiMqVrzJ_5nTlxLHxEPaFU1Adagpb8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1089578554449</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rodlandfarms.plantpulse</string>
+	<key>PROJECT_ID</key>
+	<string>plant-pulse-fe262</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plant-pulse-fe262.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1089578554449:ios:c81b3ff688274960b41470</string>
+</dict>
+</plist>

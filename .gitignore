@@ -1,0 +1,4 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/dependencies/formz-0.4.1/.dart_tool/
